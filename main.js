@@ -27,7 +27,8 @@ function startGame() {
 
 
 function choice_a() {
-    alert("our phone is now dead. 45 minutes went by and the power was still off. You think you hear footsteps coming up the stairs and you poke your head out of your room but since you have no light you didn’t see anything. You go back to your room with no worries.\nYou’re hungry and go downstairs for a snack. As you’re opening the fridge door you feel something grab your ankle. A cold and big hand. You kick the hand away but your ankle is bleeding. You can’t even run away but the creature who grabbed you disappeared again. ");
+    alert("our phone is now dead. 45 minutes went by and the power was still off. You think you hear footsteps coming up the stairs and you poke your head out of your room but since you have no light you didn’t see anything. You go back to your room with no worries.");
+    alert("You’re hungry and go downstairs for a snack. As you’re opening the fridge door you feel something grab your ankle. A cold and big hand. You kick the hand away but your ankle is bleeding. You can’t even run away but the creature who grabbed you disappeared again. ");
     alert("You have no idea what happened or what the hell just grabbed you.");
     let choice2 = prompt("1) Do you make a run back upstairs to your room to lock yourself inside?\n2) Do you make a run to the door and slam it behind you as you run to safety.\n(Write: 1 or 2)");
     
